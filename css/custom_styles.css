@@ -1,0 +1,29 @@
+td {
+    padding: 5px;
+}
+
+.headerrow {
+    text-align: center;
+}
+
+.customtip {
+    border-left: solid 5px rgb(71, 156, 43);
+    padding-left: 10px;
+}
+
+.customtip strong {
+    color: rgb(71, 156, 43);
+}
+
+.customwarning {
+    border-left: solid 5px rgb(217, 119, 6);
+    padding-left: 10px;
+}
+
+.customwarning strong {
+    color: rgb(217, 119, 6);
+}
+
+li {
+    background-color: white;
+}
