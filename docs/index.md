@@ -1,4 +1,4 @@
-# Counter Strike 2 for New Players
+# Counter Strike 1 for New Players
 
 By: Emerson, Mike, Evan, and Josh
 
